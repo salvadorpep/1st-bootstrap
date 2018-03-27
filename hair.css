@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.carousel-inner{
+  padding: 30px 30px 30px 30px;
+  width: auto;
+  heigt: 200px;
+  overflow: hidden;
+}
+
+.carousel-inner img{
+    position: relative;
+    float: left;
+    width:  auto;
+    height: 600px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+#title {
+  font-size: 30px;
+  text-align: center;
+  display: block;
+  padding-top: 40px;
+}
+
+.appointment{
+  position: inline-block;
+}
+
+.card-deck {
+  padding: 40px 40px 40px 40px;
+}
+
+.form {
+  position: col-2;
+  height: auto;
+  width: 650px;
+  padding: 10px 10px;
+  padding-left: 200px
+}
+
+.form-group{
+  padding-top: 10px
+}
+
+.boton {
+  text-align: center;
+  margin-left: 180px;
+  margin-top: 10px;
+}
+
+.tabla {
+  position: col-7;
+  width: 400px;
+  height: auto;
+}
+
+.FAQ {
+  display: block;
+  width:  1000px;
+  height: auto;
+  padding: 30px;
+  margin-left: 340px;
+  margin-right: auto;
+}
+
+.form-group 2 {
+  width: 920px;
+  /* margin-top: 200px; */
+}
+
+.card {
+  width: 700px;
+}
+
+.col-sm {
+  margin-bottom: 40px;
+}
+
+.profile {
+  border-radius: 2000px;
+}
+
+.lastext{
+  margin-top: 20px;
+}
